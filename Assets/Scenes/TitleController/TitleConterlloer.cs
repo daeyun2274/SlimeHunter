@@ -54,10 +54,4 @@ public class TitleConterlloer : MonoBehaviour
         {
             SceneManager.LoadScene("Main");
         }
-    private void Start()
-    {
-        
-    }
-    // Update is called once per frame
-    
     }
